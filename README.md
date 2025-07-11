@@ -1,24 +1,45 @@
-# To-Do App (Flask)
+# ✅ To-Do App (Flask + SQLite + Bootstrap)
 
-A simple full-stack to-do app using:
-- Flask
-- SQLite
-- Bootstrap
-- Flask-Login
+A simple to-do list web app built using Python, Flask, and SQLite.  
+✔ User login  
+✔ Task add/delete  
+✔ Styled with Bootstrap  
+✔ Live deployment
 
-## Features
+## 🔗 Live App:
+https://todo-app-nrmo.onrender.com
 
-✅ User registration & login  
-✅ Add and delete tasks  
-✅ Dashboard  
-✅ SQLite database  
+## 📫 Connect With Me
+   💻 GitHub Code:
+https://github.com/DeepakDoolipudi04/todo-app
+   💼 LinkedIn:
+www.linkedin.com/in/saimanideepakdoolipudi
 
-## How to run it locally
+## 💡 How to Run on Your Computer:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/todo-app
+git clone https://github.com/DeepakDoolipudi04/todo-app
 cd todo-app
+
 python -m venv venv
-venv\Scripts\activate   # or source venv/bin/activate (Linux/macOS)
-pip install flask flask_sqlalchemy flask_login
+venv\Scripts\activate  # or source venv/bin/activate on Linux/Mac
+
+pip install -r requirements.txt
 python app.py
+
+Then open your browser and go to:
+http://127.0.0.1:5000
+
+✨ Built With:
+
+-> Python 3
+
+-> Flask
+
+-> SQLite
+
+-> Bootstrap
+
+🙌 Author:
+
+Built by DeepakDoolipudi04
