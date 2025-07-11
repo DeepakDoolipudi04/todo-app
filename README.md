@@ -9,11 +9,31 @@ A simple to-do list web app built using Python, Flask, and SQLite.
 ## 🔗 Live App:
 https://todo-app-nrmo.onrender.com
 
+## 📸 Screenshots
+
+| Login Page | Dashboard |
+|------------|-----------|
+| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) |
+
 ## 📫 Connect With Me
    💻 GitHub Code:
 https://github.com/DeepakDoolipudi04/todo-app
    💼 LinkedIn:
 www.linkedin.com/in/saimanideepakdoolipudi
+
+## ✨ Built With:
+
+-> Python 3
+
+-> Flask
+
+-> SQLite
+
+-> Bootstrap
+
+## 🙌 Author:
+
+Built by DeepakDoolipudi04
 
 ## 💡 How to Run on Your Computer:
 
@@ -29,17 +49,3 @@ python app.py
 
 Then open your browser and go to:
 http://127.0.0.1:5000
-
-✨ Built With:
-
--> Python 3
-
--> Flask
-
--> SQLite
-
--> Bootstrap
-
-🙌 Author:
-
-Built by DeepakDoolipudi04
